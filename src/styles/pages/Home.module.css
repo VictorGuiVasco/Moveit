@@ -18,8 +18,12 @@
 }
 
 @media(max-width: 720px) {
+  .container {
+    height: 100%;
+  }
+
   .container section {
-    margin-top: 50px;
+    margin-top: 2.5rem;
 
     display: flex;
     flex-direction: column;

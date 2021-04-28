@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
-Você pode acessar o site clicando [aqui](moveit-guivasco-victorguivasco.vercel.app).
+Você pode acessar o site clicando [aqui](https://moveit-guivasco.vercel.app/).
 
 ## 🔖 Layout
 
